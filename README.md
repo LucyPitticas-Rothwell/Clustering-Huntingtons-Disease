@@ -20,3 +20,7 @@ Three subtypes with distinct progression patterns were found: Motor-led HD (Subt
 
 This is the first time progression-based subtypes of HD have been found using clinical test data. The subtypes discovered could have large implications on HD treatment scheduling, drug discovery design and our general understanding of the disease (for example the Motor-led HD subtype contradicts a key existing clinical definition of HD which states that motor symptoms usually come later). Additionally, it was shown that the distinct progression patterns (subtypes) existed independently of CAG repeat length, fortifying the argument that CAG repeat length is not a suitable biomarker for predicting disease progression.
 
+***To run***
+
+See runner_main.py in Sustain Master folder.
+
