@@ -1,5 +1,5 @@
 # Identifying Progression-based Subtypes of Huntington's Disease: Unsupervised Learning with Clinical Data (2020)
-My MSc Computer Science dissertation research project
+_My MSc Computer Science dissertation research project_
 
 ## Abstract 
 
