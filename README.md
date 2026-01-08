@@ -22,7 +22,7 @@ This is the first time progression-based subtypes of HD have been found using cl
 [Full research reoport write-up.
 ](https://github.com/LucyPitticas-Rothwell/Clustering-Huntingtons-Disease/blob/master/Full%20write-up%20(dissertation).pdf)
 
-## Run instructions (this repo)
+## Run instructions 
 
 To run simpy execute [runner_main.py](https://github.com/LucyPitticas-Rothwell/Clustering-Huntingtons-Disease/blob/master/SuStaIn-master/runner_main.py) in SuStaIn Master folder. This is the main script I wrote for this research project.
 
